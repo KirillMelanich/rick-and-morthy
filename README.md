@@ -1,4 +1,4 @@
-"# rick-and-morthy" 
+# Rick and Morthy
 
 ### Requirements:
 1. Endpoint, which return random character from the world of Rick and Morty series.
@@ -10,4 +10,4 @@
 1. Public API: https://rickandmortyapi.com/documentation.
 2. Use Celery as task scheduler for data synchronization for Rick & Morty API.
 3. Python, Django/Flask/FastAPI, ORM, PostgreSQL, Git.
-4. All endpoints should be documented via Swagger.
+4. 
